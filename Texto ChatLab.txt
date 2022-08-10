@@ -1,0 +1,12 @@
+Chat.Lab
+
+-Toda la informacion privada de las conecciones fue tapada con "***" por seguridad.
+-App en proceso, todavia faltan corregir algunos errores menores, pero su gran mayoria ya estan corregidos!
+-Funciona con Ngrok para verla online y compartirla con amigos.
+-Probé subirla a heroku pero no hace la conexion con la base de datos "phpmyadmin". Actualmente estoy buscando la manera de hacerla correr en esa plataforma.
+-Cuando este 100% finalizada comenzaré a comentar todo el codigo para facilitar la comprension del codigo para los demas programadores.
+-Agradezco cualquier recomendación/tip que me puedan dar para seguir mejorando!
+
+Cualquier cosa pueden mandarme un mail a ~ ~ daniroffo125@gmail.com ~ ~
+
+Espero que les guste!!!
